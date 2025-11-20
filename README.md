@@ -1,10 +1,4 @@
 # DSA in C++ Learning 🚀
-
-![Language](https://img.shields.io/badge/language-C++-blue.svg)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/DSA-in-Cpp-learning)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/DSA-in-Cpp-learning)
-![Stars](https://img.shields.io/github/stars/your-username/DSA-in-Cpp-learning?style=social)
-
 ---
 
 ## 📖 About
