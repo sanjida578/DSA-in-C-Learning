@@ -2,6 +2,7 @@
 #include<iostream>
 using namespace std;
 
+//function declaration
 void triangle_pattern_1(int n);
 void triangle_pattern_2(int n);
 void triangle_pattern_3(int n);
@@ -17,6 +18,8 @@ int main()
 {
     int n;
     cin>>n;
+
+    //function call
     cout<<"-------triangle_pattern_1--------"<<endl;
     triangle_pattern_1(n);
     cout<<"-------triangle_pattern_2--------"<<endl;
@@ -184,4 +187,5 @@ void triangle_pattern_10(int n)
     }
     cout<<endl;
 }
+
 
